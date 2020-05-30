@@ -16,3 +16,6 @@ A game for the paralysed so they don't get bored of life; can be ran by any pyth
 ## Shape_predictor_68_landmarks.dat:
 
 https://raw.githubusercontent.com/AKSHAYUBHAT/TensorFace/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
+
+### For more info: 
+Check www.towardsdatascience.com
