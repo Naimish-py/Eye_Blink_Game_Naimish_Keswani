@@ -1,5 +1,5 @@
 # Eye_Blink_Game_Naimish_Keswani
-A game for the paralysed so they don't get bored of life; can be ran by any python beginner.
+Playing the Chrome Dino game with your eyes
 
 # Requirements:
   1.Numpy                                                                                 
